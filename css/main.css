@@ -1,0 +1,140 @@
+
+body{
+  margin:0;
+}
+img {
+  height: 400px;
+  width: 100% 
+  object-fit: cover;
+
+}
+.swiper {
+  width: 600px;
+}
+
+html {
+  background-color:#FFFFFF;
+}
+header { 
+  justify: center;
+}
+#encabezado {
+  background-image:url("https://cdn.pixabay.com/photo/2016/08/14/18/27/sailing-boat-1593613_1280.jpg");
+  background-repeat:repeat-x; 
+  padding:10px;
+  margin:20px;
+  border-radius:50px;
+  font-family:acme;
+}
+h1 {
+  color:#700D6E;
+  font-size:300px;
+  text-align:center;
+  
+}
+h2 {
+  color:#0D108A;
+  font-size:30px;
+  text-align:center;
+}
+
+#titulo{
+  font-family
+}
+
+#suscripcion {
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+#formulario{
+  font-size:20px;
+  height:50px;
+  width: 400px;
+  text-align:center;
+  padding-top:20px;
+  border:2px solid black;
+}
+#action{
+  border: 2px solid
+  cursor: pointer;
+  background-color:red;
+  color:yellow;
+}
+#action:hover{
+  background-color:orange;
+  color:red;
+  
+}
+
+.boton {
+  color: blue;
+  background-color: #E3C232;
+  cursor: pointer;
+  display: inline-block;
+  width: 180px;
+  height: 30px;
+  border-radius: 100px;
+  padding: 10px;
+  text-align:center;
+  margin:20 auto;
+}
+.boton:hover {
+  color:#E3C232;
+  background-color:blue;
+  cursor:pointer;
+  
+}
+
+nav {
+  margin: 20px;
+  text-align:center;
+  top:0px;
+}
+#menu{
+  display:inline;
+}
+#inicio{
+  background-color: #DFB2E5;
+  padding:15px;
+  margin:20px;
+  border-radius:15px;
+  text-align:center;
+}
+#call_to_action{
+  color: black;
+  background-color:orange;
+  cursor: pointer;
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+  border-radius: 100px;
+  padding: 10px;
+  text-align:center;
+  position:sticky;
+}
+#nuestra_propuesta{
+  background-color:#C8D8E3;
+  padding:15px;
+  margin:20px;
+  text-align:center;
+}
+#beneficios{
+  background-color:#2FF5A2;
+  padding:15px;
+  margin:20px;
+}
+#testimonios{
+  background-color: #1FB2DE;
+  padding:15px;
+  margin:20px;
+}
+  
+#contacto{
+  background-color: #1FB2DE;
+  padding:15px;
+  margin:20px;
+}
+.contenedor{
+  margin-bottom: 20px;
+}
